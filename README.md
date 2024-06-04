@@ -1,5 +1,4 @@
 # yahyali.io
-yahyali.github.io
 
 # Data Analyst
 
