@@ -1,5 +1,3 @@
-# yahyali.io
-
 # Data Analyst
 
 ### Education
