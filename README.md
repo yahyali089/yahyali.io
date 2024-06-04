@@ -4,8 +4,8 @@ yahyali.github.io
 # Data Analyst
 
 ### Education
-Comp Sci. & Maths (Dual Degree, 2023)
-Machibe Learning Specialization (DeepLearning.AI, 2024)
+ - Comp Sci. & Maths (Dual Degree, 2023)
+ - Machine Learning Specialization (DeepLearning.AI, 2024)
 
 ### Work Expereince
 Data Analyst And Machine Learning Intern @ The Assembly
